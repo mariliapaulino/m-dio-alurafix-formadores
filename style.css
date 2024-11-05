@@ -19,5 +19,5 @@ img{
 .categoria-videos{
     display:flex;  /*tornar flexivel*/
     overflow-x:auto;/* não deixa sair para fora da margem criando rolagem*/
-    gap: 30px;/*cria um espaço entre os videos*/
+    gap: 20px;/*cria um espaço entre os videos*/
 }
