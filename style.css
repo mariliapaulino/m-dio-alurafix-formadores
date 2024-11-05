@@ -2,7 +2,6 @@ body{
     background-color: rgb(42, 82, 82);
     color:rgb(58, 31, 31)
 }
-
 section{ 
     background: rgb(143, 36, 98);
     padding-bottom: 80px;
@@ -11,7 +10,6 @@ section{
     justify-content: center;
 }
 .chamada-texto{
-    margin-right: 100px;
-    
+    margin-right: 100px; 
 }
 
