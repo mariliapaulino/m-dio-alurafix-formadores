@@ -10,6 +10,11 @@ header{
     background-color: rebeccapurple;
 
 }
+h1{
+    font-size: 40px;
+    color: darkblue;
+}
+
 .chamada{ 
     background: rgb(143, 36, 98);
     padding-bottom: 80px;
