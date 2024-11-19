@@ -1,6 +1,8 @@
 body{
     background-color: rgb(20, 20, 20);
-    color:rgb(58, 31, 31)
+    color:rgb(58, 31, 31);
+
+    font-family: sans-serif;
 }
 .chamada{ 
     background: rgb(143, 36, 98);
@@ -19,7 +21,7 @@ img{
 .categoria{ /* separar os videos da parede*/
     padding-left: 50px;
     padding-right: 50px;
-background-color: blue;
+background-color: blue;/* troca cor da segunda dvisão do ste*/
 }
 .categoria-videos{
     display:flex;  /*tornar flexivel*/
