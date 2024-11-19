@@ -16,9 +16,10 @@ body{
 img{
     height: 200px;
 }
-.categoria{
+.categoria{ /* separar os videos da parede*/
     padding-left: 50px;
     padding-right: 50px;
+background-color: blue;
 }
 .categoria-videos{
     display:flex;  /*tornar flexivel*/
