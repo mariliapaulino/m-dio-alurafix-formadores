@@ -16,6 +16,10 @@ body{
 img{
     height: 200px;
 }
+.categoria{
+    padding-left: 50px;
+    padding-right: 50px;
+}
 .categoria-videos{
     display:flex;  /*tornar flexivel*/
     overflow-x:auto;/* não deixa sair para fora da margem criando rolagem*/
