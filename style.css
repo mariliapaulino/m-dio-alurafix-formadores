@@ -7,7 +7,7 @@ body{
 header{ 
     font-size: 40px;
     padding-left: 30px;
-    background-color: rebeccapurple;
+    background-color: #0C2426;
 
 }
 h1{
@@ -19,7 +19,7 @@ p{
     color: black;
 }
 .chamada{ 
-    background: rgb(143, 36, 98);
+    background: #4D483C;
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
